@@ -1,3 +1,3 @@
 # Calculator
 
-This calculator shows DOM manipulation at work
+This calculator shows DOM manipulation at work lol
